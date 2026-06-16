@@ -1,0 +1,78 @@
+/* Project 1: TechNova Solutions - About Us Page */
+
+body {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  color: #000000;
+  background-color: #f5f5f5b3;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #004f2e;
+  color: #ffffff;
+  padding: 40px 40px;
+}
+
+#company-name {
+  font-size: 48px;
+  color: #ffffff;
+}
+
+nav {
+  background-color: #3ec087;
+  padding: 12px 30px;
+}
+
+nav a {
+  color: #080707;
+  font-size: 16px;
+  margin-right: 25px;
+  text-decoration: none;
+}
+
+nav a:hover{
+  text-decoration: underline;
+}
+
+main {
+  padding: 40px 50px;
+  background-color: #ffffff;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+h2 {
+  color: #00663f;
+  font-size: 28px;
+}
+
+ul {
+  font-size: 18px;
+  color: #333333;
+  display:inline-block;
+
+}
+
+address {
+  font-style: normal;
+  font-size: 18px;
+  color: #000000;
+  background-color: #efffee;
+  padding: 15px 20px;
+}
+
+address a {
+  color: #001faa;
+}
+
+footer {
+  background-color: #00663c;
+  color: #ccddff;
+  font-size: 14px;
+  padding: 15px 30px;
+  text-align: center;
+}
